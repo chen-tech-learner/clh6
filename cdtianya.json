@@ -1,0 +1,250 @@
+﻿{
+  "spider": "https://gitee.com/hu-congrong/xcz/raw/main/Yoursmile.jar",
+  "lives": [
+    {
+      "name": "天涯直播1",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://9730.kstore.space/%E6%B5%81%E5%B9%B4%E7%A6%8F%E5%88%A9.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "name": "天涯直播2",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ],
+  "sites": [
+    {
+      "key": "tianya_all",
+      "name": "⌯'ㅅ'⌯天涯影视⌯'ㅅ'⌯",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        "邵氏大片",
+        "国产剧",
+        "香港剧",
+        "海外剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "马泰剧",
+        "综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "爱情片",
+        "恐怖片",
+        "纪录片",
+        "动漫",
+        "动漫电影",
+        "短剧",
+        "体育赛事",        
+        "伦理",
+        "港台三级",
+        "韩国伦理",
+        "西方伦理",
+        "日本伦理",      
+        "写真热舞"     
+       ]
+    },
+       {
+      "key": "tianya_all1",
+      "name": "⌯'★'⌯天涯影视⌯'★'⌯",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod#https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml#https://jyzyapi.com/provide/vod/#https://api.guangsuapi.com/api.php/provide/vod#http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        "邵氏大片",
+        "国产剧",
+        "香港剧",
+        "海外剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "马泰剧",
+        "综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "爱情片",
+        "恐怖片",
+        "纪录片",
+        "动漫",
+        "动漫电影",
+        "短剧",
+        "体育赛事"
+      ]
+    },
+    {
+      "key": "天涯资源",
+      "name": "天涯｜资源",
+      "type": 0,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+     {
+      "key": "天涯｜大地",
+      "name": "天涯｜大地",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天涯｜番号",
+      "name": "天涯｜番号",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "天涯｜X细胞",
+      "name": "天涯｜性细胞",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天涯｜黄AV",
+      "name": "天涯｜色仓",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天涯｜桃花",
+      "name": "天涯｜桃花",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "乐播资源",
+      "name": "天天｜乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "fqzy资源",
+      "name": "天涯｜色播",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+       "无码流出",
+       "日本素人",
+       "国产直播",
+       "制服诱惑",
+       "淫乱学生妹",
+        "黑料网曝",
+        "国产大制作",
+        "偷拍自拍",
+        "高清无码",
+        "乱伦毁三观",
+        "淫乱学生",
+        "主播女网红",
+        "东京热",
+        "高清有码",
+         "一本道",
+        "中文字幕",
+        "动漫精选",
+        "欧美精品"
+      ]
+    }
+   ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.140",
+        "94.140.141"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "haiwaikan.com",
+        "youtube.com"
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "[默认] 一号解析通道【稳定通用】",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "[推荐] 二号解析通道 【通用】",
+      "type": 1,
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "mgtv",
+    "bilibili"
+  ],
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+}

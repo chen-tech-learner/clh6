@@ -36,8 +36,15 @@
       "url": "https://dogpan.com/f/Y6ANFA/IPTV%E7%BB%84%E6%92%AD.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
-	{
+    {
       "name": "直播6",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+     },
+	  {
+      "name": "直播7",
       "type": 0,
       "playerType": 2,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/OrangeWay520/my-iptv/refs/heads/master/my_channels.txt",

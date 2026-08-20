@@ -1,23 +1,87 @@
-﻿{
+{
   "spider": "https://gitee.com/hu-congrong/xcz/raw/main/Yoursmile.jar",
   "lives": [
     {
-      "name": "天涯直播1",
+      "name": "直播1",
       "type": 0,
       "playerType": 2,
-      "url": "https://9730.kstore.space/%E6%B5%81%E5%B9%B4%E7%A6%8F%E5%88%A9.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "name": "天涯直播2",
+      "name": "直播2",
       "type": 0,
       "playerType": 2,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/niuber/iptv-api/refs/heads/master/output/niuber.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+	{
+      "name": "直播3",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+	{
+      "name": "直播4",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "name": "直播5",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://dogpan.com/f/Y6ANFA/IPTV%E7%BB%84%E6%92%AD.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+	{
+      "name": "直播6",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/OrangeWay520/my-iptv/refs/heads/master/my_channels.m3u",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
   "sites": [
+   {
+      "key": "cat_douer",
+      "name": "豆儿猫源",
+      "type": 3,
+      "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+      "searchable": 1
+    },
     {
+      "key": "cat_niu2",
+      "name": "牛二猫源",
+      "type": 3,
+      "api": "https://9280.kstore.vip/cat/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "cat_4tv",
+      "name": "4TV解析",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+      "searchable": 1
+    },
+    {
+      "key": "cat_xuenai",
+      "name": "雪乃猫源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+      "searchable": 1
+    },
+    {
+      "key": "cat_lmentor",
+      "name": "Lmentor猫源",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+      "searchable": 1
+    },
+	{
       "key": "tianya_all",
       "name": "⌯'ㅅ'⌯天涯影视⌯'ㅅ'⌯",
       "type": 0,
@@ -233,6 +297,26 @@
       "url": "https://www.yemu.xyz/?url="
     },
     {
+      "name": "超特解析-01",
+      "type": 1,
+      "url": "http://gsd-jx.810211.dpdns.org/home/api?type=ys&uid=2733323&key=lbalobOE9F6B7I0DfE&url="
+    },
+    {
+      "name": "超特解析-02",
+      "type": 1,
+      "url": "http://gsd-jx1.810211.dpdns.org/api/?key=Q2IhcHdde0F5fof&url="
+    },
+    {
+      "name": "超特解析1",
+      "type": 1,
+      "url": "https://zxy-jx1.jsszks.dpdns.org/api/?key=tvPNI63uStrfeHd&url="
+    },
+    {
+      "name": "超特解析2",
+      "type": 1,
+      "url": "https://e.sby123c.cc/api/?key=emUU37TkuNQkP5ZYjr&url="
+    },
+	{
       "name": "[推荐] 二号解析通道 【通用】",
       "type": 1,
       "url": "https://jx.xmflv.com/?url="

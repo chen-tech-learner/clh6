@@ -54,7 +54,7 @@
   "sites": [
  	{
       "key": "tianya_all",
-      "name": "⌯'ㅅ'⌯天涯影视⌯'ㅅ'⌯",
+      "name": "✨全网｜影视合集✨",
       "type": 0,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
        {
       "key": "tianya_all1",
-      "name": "⌯'★'⌯天涯影视⌯'★'⌯",
+      "name": "✨全网｜影视合集✨1",
       "type": 1,
       "api": "https://p2100.net/api.php/provide/vod#https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml#https://jyzyapi.com/provide/vod/#https://api.guangsuapi.com/api.php/provide/vod#http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -123,16 +123,16 @@
       ]
     },
     {
-      "key": "天涯资源",
-      "name": "天涯｜资源",
+      "key": "tyzhiyuan",
+      "name": "✨全网｜影视合集✨2",
       "type": 0,
       "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
      {
-      "key": "天涯｜大地",
-      "name": "天涯｜大地",
+      "key": "tydadi",
+      "name": "✨全网｜影视合集✨3",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -141,8 +141,8 @@
       "filterable": 0
     },
     {
-      "key": "天涯｜番号",
-      "name": "天涯｜番号",
+      "key": "tyfanhao",
+      "name": "✨全网｜影视合集✨3",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -150,8 +150,8 @@
       "filterable": 0
     },
     {
-      "key": "天涯｜X细胞",
-      "name": "天涯｜性细胞",
+      "key": "tyxxibao",
+      "name": "✨全网｜影视合集✨4",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -159,8 +159,8 @@
       "filterable": 0
     },
     {
-      "key": "天涯｜黄AV",
-      "name": "天涯｜色仓",
+      "key": "tyhuangav",
+      "name": "✨全网｜影视合集✨5",
       "type": 1,
       "api": "https://hsckzy.vip/api.php/provide/vod/",
       "quickSearch": 1,
@@ -168,8 +168,8 @@
       "filterable": 0
     },
     {
-      "key": "天涯｜桃花",
-      "name": "天涯｜桃花",
+      "key": "tytaohua",
+      "name": "✨全网｜影视合集✨6",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -177,8 +177,8 @@
       "filterable": 0
     },
     {
-      "key": "乐播资源",
-      "name": "天天｜乐播",
+      "key": "luobozy",
+      "name": "✨全网｜影视合集✨7",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -186,8 +186,8 @@
       "filterable": 0
     },
     {
-      "key": "fqzy资源",
-      "name": "天涯｜色播",
+      "key": "fqzyay",
+      "name": "✨全网｜影视合集✨8",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
       "searchable": 1,

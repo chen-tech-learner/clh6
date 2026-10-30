@@ -1,6 +1,5 @@
 {
-  "spider": "https://gitee.com/hu-congrong/xcz/raw/main/Yoursmile.jar",
-  "lives": [
+   "lives": [
     {
       "name": "直播1",
       "type": 0,
